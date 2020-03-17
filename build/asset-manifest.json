@@ -1,14 +1,22 @@
 {
-  "main.css": "/kaustavkarmakar2.github.io/ReactLibaryApp/static/css/main.2f526613.chunk.css",
-  "main.js": "/kaustavkarmakar2.github.io/ReactLibaryApp/static/js/main.4ebea07d.chunk.js",
-  "main.js.map": "/kaustavkarmakar2.github.io/ReactLibaryApp/static/js/main.4ebea07d.chunk.js.map",
-  "static/js/1.f26ca547.chunk.js": "/kaustavkarmakar2.github.io/ReactLibaryApp/static/js/1.f26ca547.chunk.js",
-  "static/js/1.f26ca547.chunk.js.map": "/kaustavkarmakar2.github.io/ReactLibaryApp/static/js/1.f26ca547.chunk.js.map",
-  "runtime~main.js": "/kaustavkarmakar2.github.io/ReactLibaryApp/static/js/runtime~main.5e649f44.js",
-  "runtime~main.js.map": "/kaustavkarmakar2.github.io/ReactLibaryApp/static/js/runtime~main.5e649f44.js.map",
-  "static/media/App.css": "/kaustavkarmakar2.github.io/ReactLibaryApp/static/media/arrow-drop-down.78c6f53b.svg",
-  "static/css/main.2f526613.chunk.css.map": "/kaustavkarmakar2.github.io/ReactLibaryApp/static/css/main.2f526613.chunk.css.map",
-  "index.html": "/kaustavkarmakar2.github.io/ReactLibaryApp/index.html",
-  "precache-manifest.40cf3e51bccec24b7044bf4c2b32bfd5.js": "/kaustavkarmakar2.github.io/ReactLibaryApp/precache-manifest.40cf3e51bccec24b7044bf4c2b32bfd5.js",
-  "service-worker.js": "/kaustavkarmakar2.github.io/ReactLibaryApp/service-worker.js"
+  "files": {
+    "main.css": "/Reactproject/static/css/main.cf130a84.chunk.css",
+    "main.js": "/Reactproject/static/js/main.09933f2f.chunk.js",
+    "main.js.map": "/Reactproject/static/js/main.09933f2f.chunk.js.map",
+    "runtime-main.js": "/Reactproject/static/js/runtime-main.7db781b8.js",
+    "runtime-main.js.map": "/Reactproject/static/js/runtime-main.7db781b8.js.map",
+    "static/js/2.ca113ce4.chunk.js": "/Reactproject/static/js/2.ca113ce4.chunk.js",
+    "static/js/2.ca113ce4.chunk.js.map": "/Reactproject/static/js/2.ca113ce4.chunk.js.map",
+    "index.html": "/Reactproject/index.html",
+    "precache-manifest.634b47bca66107b9330ca0c7109d8333.js": "/Reactproject/precache-manifest.634b47bca66107b9330ca0c7109d8333.js",
+    "service-worker.js": "/Reactproject/service-worker.js",
+    "static/css/main.cf130a84.chunk.css.map": "/Reactproject/static/css/main.cf130a84.chunk.css.map",
+    "static/js/2.ca113ce4.chunk.js.LICENSE.txt": "/Reactproject/static/js/2.ca113ce4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7db781b8.js",
+    "static/js/2.ca113ce4.chunk.js",
+    "static/css/main.cf130a84.chunk.css",
+    "static/js/main.09933f2f.chunk.js"
+  ]
 }
