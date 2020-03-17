@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/kaustavkarmakar2.github.io/ReactLibaryApp/precache-manifest.40cf3e51bccec24b7044bf4c2b32bfd5.js"
+  "/ReactLibaryApp/precache-manifest.1b4938e6ac5f24d0e9ef1457c6491c4f.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/kaustavkarmakar2.github.io/ReactLibaryApp/index.html", {
+workbox.routing.registerNavigationRoute("/ReactLibaryApp/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
