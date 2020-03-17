@@ -1,8 +1,9 @@
 {
   "name": "myread",
   "version": "0.1.0",
+  "homepage": "http://kaustavkarmakar2.github.io/ReactLibaryApp",
   "private": true,
-  "homepage": "http:///kaustavkarmakar2.github.io/ReactLibaryApp",
+ 
   
   "dependencies": {
     "lodash.throttle": "^4.1.1",
